@@ -34,9 +34,6 @@ section>h2 {
 
 section.chicken>h2 {
     background-color: #76b8db;
-    position: relative;
-    border-top: 0;
-    border-right: 0;
 }
 
 section.soup>h2 {
