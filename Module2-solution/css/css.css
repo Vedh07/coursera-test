@@ -4,7 +4,11 @@
 }
 
 body {
+<<<<<<< HEAD
     background-color: #e0d5e4;
+=======
+    background-color:#ead7d6;
+>>>>>>> 461a31ae9c1a408867bbfdcd6cf1718bfcba06be
 }
 
 h1 {
@@ -33,8 +37,13 @@ section>h2 {
 }
 
 section.chicken>h2 {
+<<<<<<< HEAD
     background-color: #f05858;
     }
+=======
+    background-color: #76b8db;
+}
+>>>>>>> 461a31ae9c1a408867bbfdcd6cf1718bfcba06be
 
 section.soup>h2 {
     background-color: #f51b3f;
